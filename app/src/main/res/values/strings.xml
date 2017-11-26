@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hobi</string>
+    <string name="title_activity_pictures">Pildid</string>
+    <string name="button_pictures">Pildid</string>
+    <string name="button_back">Tagasi</string>
+    <string name="button_menu">Viited</string>
+    <string name="title_activity_menu">Viited</string>
+    <string name="link_caption1">Eesti Karate Föderatsioon</string>
+    <string name="link_caption2">World Karate Federation</string>
+    <string name="main_text1">Karate ehk karate-dō (jaapani keeles sõnadest (kara) "tühi", te "käsi" ja sõnaosast dō "kunst, tee") on Okinawa päritolu võitluskunst.</string>
+    <string name="main_text2">Karatega tegelevaid sportlasi nimetatakse karatekadeks.</string>
+    <string name="main_text3">Karate-dō tehniliseks põhiosaks on võitlus paljaste ehk tühjade kätega, st relvi kasutamata.</string>
+</resources>
